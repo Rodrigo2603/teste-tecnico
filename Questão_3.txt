@@ -1,0 +1,15 @@
+                        SOMA + K
+K == 1          SOMA ==   0  + 2  == 2
+K == 2          SOMA ==   2  + 3  == 5
+K == 3          SOMA ==   5  + 4  == 9
+K == 4          SOMA ==   9  + 5  == 14
+K == 5          SOMA ==   14 + 6  == 20
+K == 6          SOMA ==   20 + 7  == 27
+K == 7          SOMA ==   27 + 8  == 35
+K == 8          SOMA ==   35 + 9  == 44
+K == 9          SOMA ==   44 + 10 == 54
+K == 10         SOMA ==   54 + 11 == 65
+K == 11         SOMA ==   65 + 12 == 77
+K == 12         K == INDICE
+
+O valor de soma que será printado é 77

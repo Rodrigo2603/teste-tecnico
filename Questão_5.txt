@@ -1,0 +1,11 @@
+É impossível resolver esse problema sem levar em conta um critério a mais do que apenas lâmpadas e interruptores, neste caso foi levado em conta o aquecimento das lâmpadas ao permanecerem um certo tempo ligado.
+
+1. Ligue o primeiro interruptor (Interruptor A) e deixe-o ligado por um período de tempo considerável. Isso fará com que a lâmpada associada a este interruptor aqueça.
+
+2. Após o tempo considerável desligue o Interruptor A e ligue o segundo interruptor (Interruptor B). Deixe o Interruptor B ligado e mantenha o Interruptor C desligado.
+
+3. Agora, vá até as salas das lâmpadas:
+    Sala 1: A lâmpada que está acesa é controlada pelo Interruptor B (porque o Interruptor B está ligado).
+    Sala 2: Toque nas lâmpadas que estão apagadas.
+    A lâmpada que está quente (mas apagada) é controlada pelo Interruptor A (porque estava ligada por 10 minutos e depois foi desligada).
+    A lâmpada que está fria (e apagada) é controlada pelo Interruptor C (porque nunca foi ligada).
